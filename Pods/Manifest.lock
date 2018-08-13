@@ -1,0 +1,12 @@
+PODS:
+  - ChromaColorPicker (1.7)
+
+DEPENDENCIES:
+  - ChromaColorPicker (~> 1.7)
+
+SPEC CHECKSUMS:
+  ChromaColorPicker: 33efa67b17cca51dd253689d18b83ac7e05642c2
+
+PODFILE CHECKSUM: abc51a3cb0e14edf875ab4db84bd8105a8986cd2
+
+COCOAPODS: 1.1.1
